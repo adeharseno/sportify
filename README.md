@@ -1,1 +1,3 @@
-# sportify
+# Sportify
+
+## Getting Started
